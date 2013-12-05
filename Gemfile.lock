@@ -57,7 +57,7 @@ GEM
     mime-types (1.23)
     mono_logger (1.1.0)
     multi_json (1.7.7)
-    pg (0.15.1)
+    mysql2 (0.3.14)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -136,7 +136,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
   lograge
-  pg
+  mysql2
   rails (= 3.2.9)
   resque (~> 1.24.1)
   sass-rails (~> 3.2.3)
